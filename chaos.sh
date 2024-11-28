@@ -19,7 +19,7 @@ elif [ "$num" == "7" ];then
     sleep 5
     echo "I just wrote dark joke to make you think for 5 sec straight on a chair while Dini is just staring at you"
 elif [ "$num" == "8" ];then
-    echo "wow, seven huh."
+    echo "wow, eight huh."
     sleep 2
     echo "your an absolute faliure"
 elif [ "$num" == "9" ];then
